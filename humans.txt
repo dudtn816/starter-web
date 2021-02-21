@@ -15,3 +15,4 @@
     HTML5, CSS3
     jQuery, Moderniz:
     Hi everybody
+    I'm a team leader
